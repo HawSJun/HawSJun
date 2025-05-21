@@ -1,72 +1,76 @@
-<p align='center'>
+<p align="center">
   <a href="https://github.com/HawSJun">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=SeokJun's%20Dev%20Repo&fontColor=005174&fontSize=60&animation=scaleIn&fontAlignY=42&desc=IoT"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=260&section=header&text=SeokJun's%20Dev%20Repo&fontSize=60&fontColor=e0e0e0&fontAlign=50&fontAlignY=35&desc=IoT%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Embedded%20Systems&descAlign=50&descAlignY=65&animation=scaleIn"/>
   </a>
 </p>
 
-## Profile
-- `Name` : Hwang SeokJun
-- `Email` : ghkdtjrwns12@naver.com
-- 🔭 I'm currently working as an **IoT instructor**
-  - Major : C, C++
-  - Minor : Python
- 
+
+<h2 align="center">👤 Profile</h2>
+
+<p align="center" style="font-style: italic;">
+  • 🙍‍♂️ <strong>Name</strong>: Hwang SeokJun<br>
+  • 📧 <strong>Email</strong>: <a href="mailto:ghkdtjrwns12@naver.com">ghkdtjrwns12@naver.com</a><br>
+  • 🛠 <strong>Major</strong>: <code>C</code>, <code>C++</code><br>
+  • 🧪 <strong>Minor</strong>: <code>Python</code>
+</p>
+
+
+<h2 align="center">🧑‍🎓 Education</h2>
+
+<p align="center" style="font-family:'Segoe UI', sans-serif; font-size: 16px; font-style: italic;">
+  ▫️ <strong>2025.02 ~ ing</strong> : IoT 시스템 개발자 과정
+</p>
+
+
+<!-- <h2 align="center">🛠️ Tech Stack & Tools I Use</h2> -->
+
+<h3 align="center">👨‍💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" height="40" alt="C" title="C"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" height="40" alt="C++" title="C++"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" height="40" alt="Python" title="Python"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" height="40" alt="MySQL" title="MySQL"/>
+</p>
+
+
+<h3 align="center">⚙️ Technologies & Frameworks</h3>
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/docker.png" height="40" alt="Docker" title="Docker"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" height="40" alt="Arduino" title="Arduino"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" height="40" alt="Raspberry Pi" title="Raspberry Pi"/>
+</p>
+
+
+<h3 align="center">🧰 Development Tools</h3>
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height="40" alt="VS Code" title="Visual Studio Code"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" height="40" alt="Visual Studio" title="Visual Studio"/>
+</p>
+
 
 <h2 align="center">🛰️ Featured Project</h2>
+<div align="center">
+  <div style="display: inline-block; width: 400px; border: 2px solid #888; border-radius: 15px; padding: 25px; background: #f5f5f5;">
+    <img src="https://img.shields.io/badge/3D_Scanner_Project-%F0%9F%9A%80%20Planning-informational?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="3D Scanner"/><br><br>
+    <strong style="font-size: 18px;">📡 3D 3차원 거리 측정 프로젝트</strong><br>
+    <sub style="color: #555; font-style: italic;">“VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템”</sub><br><br>
+    <span style="background: #ffd54f; color: black; padding: 4px 10px; border-radius: 20px; font-size: 13px;">
+      🚧 기획 중 - Coming Soon!
+    </span>
+  </div>
+</div>
+
+
+<h3 align="center">📊 GitHub Stats & Streak</h3>
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="400" style="border: 2px solid #888; border-radius: 15px; padding: 25px; background: linear-gradient(to bottom right, #f0f0f0, #e0e0e0); box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-        <img src="https://img.shields.io/badge/3D_Scanner_Project-%F0%9F%9A%80%20Planning-informational?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="3D Scanner"/><br><br>
-        <strong style="font-size: 18px;">📡 3D 3차원 거리 측정 프로젝트</strong><br>
-        <sub style="color: #555; font-style: italic;">“VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템”</sub><br><br>
-        <span style="background: #ffd54f; color: black; padding: 4px 10px; border-radius: 20px; font-size: 13px;">
-          🚧 기획 중 - Coming Soon!
-        </span>
-      </td>
-    </tr>
-  </table>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HawSJun&show_icons=true&theme=onedark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawSJun&layout=compact&theme=onedark&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025&hide_border=true"/>
 </p>
 
-
-## GitHub Stat and Languages
-<p align='center'>
-  <a href="https://github.com/HawSJun">
-    <img src="https://github-readme-stats.vercel.app/api?username=HawSJun&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawSJun&theme=tokyonight&layout=compact"/>
-  </a>
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=HawSJun&theme=onedark&hide_border=true"/>
 </p>
 
-## Using Languages
-<p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
-    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
-    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" title="MySQL/MariaDB">
-</p>
-
-## Using Technics
-<p align='left'>
-  <img height="40" src="https://raw.githubusercontent.com/hugoMGSung/hugoMGSung/main/images/wpf.png" title="WPF">
-  <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
-  <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
-  <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
-  <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
-</p>
-
-## Using Tools
-<p align='left'>
-  <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
-  <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
-</p>
-
-<!--
-## 기술명세
-| 기술분류 | 설명 |
-|:---:|:---:|
-|VSCode | VisualStudio Code 툴 사용법 습득|
-|Python | 빅데이터분석, 머신러닝, OpenCV|
--->
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
