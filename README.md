@@ -11,6 +11,25 @@
   - Major : C, C++
   - Minor : Python
  
+
+<h2 align="center">🛰️ Featured Project</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="400" style="border: 2px solid #888; border-radius: 15px; padding: 25px; background: linear-gradient(to bottom right, #f0f0f0, #e0e0e0); box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/3D_Scanner_Project-%F0%9F%9A%80%20Planning-informational?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="3D Scanner"/><br><br>
+        <strong style="font-size: 18px;">📡 3D 3차원 거리 측정 프로젝트</strong><br>
+        <sub style="color: #555; font-style: italic;">“VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템”</sub><br><br>
+        <span style="background: #ffd54f; color: black; padding: 4px 10px; border-radius: 20px; font-size: 13px;">
+          🚧 기획 중 - Coming Soon!
+        </span>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 ## GitHub Stat and Languages
 <p align='center'>
   <a href="https://github.com/HawSJun">
