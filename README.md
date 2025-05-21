@@ -48,20 +48,23 @@
 </p>
 
 
-<h2 align="center">🛰️ Featured Project</h2>
-<div align="center">
-  <div style="display: inline-block; width: 400px; border: 2px solid #888; border-radius: 15px; padding: 25px; background: #f5f5f5;">
+<<h2 align="center">🛰️ Featured Project</h2>
+
+<p align="center">
+  <div style="display: inline-block; text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 20px; background-color: #f9f9f9; width: 90%; max-width: 400px;">
     <img src="https://img.shields.io/badge/3D_Scanner_Project-%F0%9F%9A%80%20Planning-informational?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="3D Scanner"/><br><br>
     <strong style="font-size: 18px;">📡 3D 3차원 거리 측정 프로젝트</strong><br>
-    <sub style="color: #555; font-style: italic;">“VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템”</sub><br><br>
-    <span style="background: #ffd54f; color: black; padding: 4px 10px; border-radius: 20px; font-size: 13px;">
+    <sub style="color: #555; font-style: italic;">
+      VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템
+    </sub><br><br>
+    <span style="background-color: #ffd54f; color: black; padding: 4px 10px; border-radius: 10px; font-weight: bold;">
       🚧 기획 중 - Coming Soon!
     </span>
   </div>
-</div>
+</p>
 
 
-<h3 align="center">📊 GitHub Stats & Streak</h3>
+<h2 align="center">📊 GitHub Stats & Streak</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HawSJun&show_icons=true&theme=onedark&hide_border=true"/>
@@ -73,4 +76,4 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/HawSJun/HawSJun/blob/output/github-contribution-grid-snake.svg)
