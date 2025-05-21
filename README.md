@@ -1,3 +1,4 @@
+<!-- 헤더 -->
 <p align="center">
   <a href="https://github.com/HawSJun">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=260&section=header&text=SeokJun's%20Dev%20Repo&fontSize=60&fontColor=e0e0e0&fontAlign=50&fontAlignY=35&desc=IoT%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Embedded%20Systems&descAlign=50&descAlignY=65&animation=scaleIn"/>
@@ -5,6 +6,8 @@
 </p>
 
 
+
+<!-- 프로필 -->
 <h2 align="center">👤 Profile</h2>
 
 <p align="center" style="font-style: italic;">
@@ -22,7 +25,9 @@
 </p>
 
 
-<!-- <h2 align="center">🛠️ Tech Stack & Tools I Use</h2> -->
+
+<!-- 기술 스택 -->
+<h2 align="center">🛠️ Tech Stack & Tools I Use</h2>
 
 <h3 align="center">👨‍💻 Programming Languages</h3>
 <p align="center">
@@ -48,22 +53,28 @@
 </p>
 
 
-<<h2 align="center">🛰️ Featured Project</h2>
+<!-- 프로젝트 -->
+<h2 align="center">🛰️ Featured Project</h2>
 
-<p align="center">
-  <div style="display: inline-block; text-align: center; border: 1px solid #ccc; border-radius: 12px; padding: 20px; background-color: #f9f9f9; width: 90%; max-width: 400px;">
-    <img src="https://img.shields.io/badge/3D_Scanner_Project-%F0%9F%9A%80%20Planning-informational?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="3D Scanner"/><br><br>
-    <strong style="font-size: 18px;">📡 3D 3차원 거리 측정 프로젝트</strong><br>
-    <sub style="color: #555; font-style: italic;">
-      VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템
-    </sub><br><br>
-    <span style="background-color: #ffd54f; color: black; padding: 4px 10px; border-radius: 10px; font-weight: bold;">
-      🚧 기획 중 - Coming Soon!
-    </span>
-  </div>
-</p>
+<div align="center">
+
+<table style="border: 1px solid #ccc; border-radius: 12px; background-color: #f9f9f9; padding: 20px;">
+  <tr>
+    <td align="center" style="padding: 20px; width: 400px;">
+      <img src="https://img.shields.io/badge/3D_Scanner_Project-%F0%9F%9A%80%20Planning-informational?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="3D Scanner"/><br><br>
+      <strong style="font-size: 18px;">📡 3D 3차원 거리 측정 프로젝트</strong><br>
+      <sub style="color: #555; font-style: italic;">VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템</sub><br><br>
+      <span style="background-color: #ffd54f; color: black; padding: 4px 10px; border-radius: 10px; font-weight: bold;">
+        🚧 기획 중 - Coming Soon!
+      </span>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
+<!-- 깃허브 상태-->
 <h2 align="center">📊 GitHub Stats & Streak</h2>
 
 <p align="center">
@@ -74,6 +85,7 @@
 <p align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=HawSJun&theme=onedark&hide_border=true"/>
 </p>
+
 
 
 ![snake gif](https://github.com/HawSJun/HawSJun/blob/output/github-contribution-grid-snake.svg)
