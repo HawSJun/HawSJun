@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 <p align="center">
   <a href="https://github.com/HawSJun">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=260&section=header&text=SeokJun's%20Dev%20Repo&fontSize=60&fontColor=e0e0e0&fontAlign=50&fontAlignY=35&desc=IoT%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Embedded%20Systems&descAlign=50&descAlignY=65&animation=scaleIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=260&section=header&text=SeokJun.Dev()&fontSize=60&fontColor=e0e0e0&fontAlign=50&fontAlignY=35&desc=IoT%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Embedded%20Systems&descAlign=50&descAlignY=65&animation=scaleIn"/>
   </a>
 </p>
 
