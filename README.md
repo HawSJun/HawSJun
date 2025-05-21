@@ -85,9 +85,8 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=HawSJun&theme=onedark&hide_border=true"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=HawSJun&theme=onedark&hide_border=true"/>
 </p>
-
 
 
 ![snake gif](https://github.com/HawSJun/HawSJun/blob/output/github-contribution-grid-snake.svg)
