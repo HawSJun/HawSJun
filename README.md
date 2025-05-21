@@ -14,8 +14,10 @@
   • 🙍‍♂️ <strong>Name</strong>: Hwang SeokJun<br>
   • 📧 <strong>Email</strong>: <a href="mailto:ghkdtjrwns12@naver.com">ghkdtjrwns12@naver.com</a><br>
   • 🛠 <strong>Major</strong>: <code>C</code>, <code>C++</code><br>
-  • 🧪 <strong>Minor</strong>: <code>Python</code>
+  
 </p>
+  
+  <!-- • 🧪 <strong>Minor</strong>: <code>Python</code> -->
 
 
 <h2 align="center">🧑‍🎓 Education</h2>
