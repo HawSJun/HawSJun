@@ -16,6 +16,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # 🎨 커스텀 스타일 추가
+          snake_color: "#00ffff"           # 시안색 뱀
+          background: "#0d0d0d"            # 어두운 배경
+          color_dots: "#39d353,#ff00ff,#00ffff,#f39c12"  # 초록, 핑크, 시안, 주황 계열 먹이
+
       - name: push
         uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -23,3 +28,30 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+# name: Generate Snake
+
+# on:
+#   schedule:
+#     - cron: "0 0 * * *"  # 매일 자정 실행
+#   workflow_dispatch:      # 수동 실행도 가능
+
+# jobs:
+#   generate:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: generate github-contribution-grid-snake.svg
+#         uses: Platane/snk@v3
+#         with:
+#           github_user_name: HawSJun
+#           outputs: |
+#             dist/github-contribution-grid-snake.svg
+#             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+#       - name: push
+#         uses: crazy-max/ghaction-github-pages@v3
+#         with:
+#           target_branch: output
+#           build_dir: dist
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
