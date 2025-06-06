@@ -75,18 +75,21 @@
 
 </div> -->
 
+
 <h2 align="center">🛰️ Featured Project</h2>
 
 <div align="center">
-
-<a href=https://github.com/HawSJun/Arduino-VL53L0X-3D-Scanner target="_blank" style="text-decoration: none; color: inherit;">
 
 <table style="border: 1px solid #ccc; border-radius: 12px; background-color: #f9f9f9; padding: 20px;">
   <tr>
     <td align="center" style="padding: 20px; width: 400px;">
       <img src="https://img.shields.io/badge/3D_Scanner_Project-%F0%9F%9A%80%20Planning-informational?style=for-the-badge&logo=arduino&logoColor=white" alt="3D Scanner"/><br><br>
-      <strong style="font-size: 18px;">📡 3D 3차원 거리 측정 프로젝트</strong><br>
-      <sub style="color: #555; font-style: italic;">VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템</sub><br><br>
+      <a href="https://github.com/HawSJun/Arduino-VL53L0X-3D-Scanner" target="_blank" style="text-decoration: none; color: inherit;">
+      <strong style="font-size: 18px;">📡 3D 3차원 거리 측정 프로젝트</strong>
+      </a><br>
+      <sub style="color: #555; font-style: italic;">
+      VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템
+      </sub><br><br>
       <span style="background-color: #ffd54f; color: black; padding: 4px 10px; border-radius: 10px; font-weight: bold;">
         🚧 기획 중 - Coming Soon!
       </span>
@@ -94,11 +97,7 @@
   </tr>
 </table>
 
-</a>
-
 </div>
-
-
 
 <!-- 깃허브 상태-->
 <h2 align="center">📊 GitHub Stats & Streak</h2>
