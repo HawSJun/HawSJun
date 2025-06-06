@@ -91,7 +91,7 @@
       VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템
       </sub><br><br>
       <span style="background-color: #ffd54f; color: black; padding: 4px 10px; border-radius: 10px; font-weight: bold;">
-        🚧 기획 중 - Coming Soon!
+        🔧 개발 진행 중 - Work in Progress
       </span>
     </td>
   </tr>
