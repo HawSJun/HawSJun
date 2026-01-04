@@ -55,43 +55,45 @@
 </p>
 
 
-<h2 align="center">🛰️ Featured Projects</h2>
-
-<div align="center">
-
 <table style="border-collapse: separate; border-spacing: 20px;">
   <tr>
     <!-- Project 1 -->
-    <td align="center" style="border: 1px solid #ccc; border-radius: 12px; background-color: #f9f9f9; padding: 20px; width: 400px;">
-      <img src="https://img.shields.io/badge/Vehicle_System-2025-blue?style=for-the-badge&logo=automotive&logoColor=white" /><br><br>
-      <a href="https://github.com/BKAELAB/Project_2025Vehicle_System" target="_blank" style="text-decoration: none; color: inherit;">
-        <strong style="font-size: 18px;">🚗 Vehicle System Architecture Project</strong>
-      </a><br>
-      <sub style="color: #555; font-style: italic;">
+    <td align="center"
+        style="border: 1px solid #ccc;
+               border-radius: 12px;
+               background-color: #f9f9f9;
+               padding: 20px;
+               width: 400px;
+               height: 330px;
+               vertical-align: top;">
+      <img src="https://img.shields.io/badge/VEHICLE_SYSTEM-2025-blue?style=for-the-badge" /><br><br>
+      <strong style="font-size: 18px;">🚗 Vehicle System Architecture Project</strong><br><br>
+      <div style="min-height: 80px;">
         차량 전자 시스템 구조 설계<br>
         ECU · Sensor · Actuator 통합 제어
-      </sub><br><br>
-      <span style="background-color: #4caf50; color: white; padding: 4px 10px; border-radius: 10px; font-weight: bold;">
-        ✔ System Design
-      </span>
+      </div><br>
+      <span>✔ System Design</span>
     </td>
     <!-- Project 2 -->
-    <td align="center" style="border: 1px solid #ccc; border-radius: 12px; background-color: #f9f9f9; padding: 20px; width: 400px;">
-      <img src="https://img.shields.io/badge/SOME/IP-Gateway-purple?style=for-the-badge&logo=protocols&logoColor=white" /><br><br>
-      <a href="https://github.com/BKAELAB/BKEL_SomeIP_GateWay/tree/mcu?tab=readme-ov-file" target="_blank" style="text-decoration: none; color: inherit;">
-        <strong style="font-size: 18px;">🌐 SOME/IP Gateway (MCU)</strong>
-      </a><br>
-      <sub style="color: #555; font-style: italic;">
+    <td align="center"
+        style="border: 1px solid #ccc;
+               border-radius: 12px;
+               background-color: #f9f9f9;
+               padding: 20px;
+               width: 400px;
+               height: 330px;
+               vertical-align: top;">
+      <img src="https://img.shields.io/badge/SOME%2FIP-GATEWAY-purple?style=for-the-badge" /><br><br>
+      <strong style="font-size: 18px;">🌐 SOME/IP Gateway (MCU)</strong><br><br>
+      <div style="min-height: 80px;">
         차량 네트워크 통신 게이트웨이<br>
         SOME/IP · MCU · Service Routing
-      </sub><br><br>
-      <span style="background-color: #ff9800; color: black; padding: 4px 10px; border-radius: 10px; font-weight: bold;">
-        🚧 Work in Progress
-      </span>
+      </div><br>
+      <span>🚧 Work in Progress</span>
     </td>
   </tr>
 </table>
-</div>
+
 
 
 
