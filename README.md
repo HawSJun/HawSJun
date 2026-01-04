@@ -55,28 +55,47 @@
 </p>
 
 
-<!-- 프로젝트 -->
-<!-- <h2 align="center">🛰️ Featured Project</h2>
+<h2 align="center">🛰️ Featured Projects</h2>
 
 <div align="center">
 
-<table style="border: 1px solid #ccc; border-radius: 12px; background-color: #f9f9f9; padding: 20px;">
+<table style="border-collapse: separate; border-spacing: 20px;">
   <tr>
-    <td align="center" style="padding: 20px; width: 400px;">
-      <img src="https://img.shields.io/badge/3D_Scanner_Project-%F0%9F%9A%80%20Planning-informational?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="3D Scanner"/><br><br>
-      <strong style="font-size: 18px;">📡 3D 3차원 거리 측정 프로젝트</strong><br>
-      <sub style="color: #555; font-style: italic;">VL53L0X + 듀얼 서보모터 기반<br>공간 거리 스캐닝 시스템</sub><br><br>
-      <span style="background-color: #ffd54f; color: black; padding: 4px 10px; border-radius: 10px; font-weight: bold;">
-        🚧 기획 중 - Coming Soon!
+    <!-- Project 1 -->
+    <td align="center" style="border: 1px solid #ccc; border-radius: 12px; background-color: #f9f9f9; padding: 20px; width: 400px;">
+      <img src="https://img.shields.io/badge/Vehicle_System-2025-blue?style=for-the-badge&logo=automotive&logoColor=white" /><br><br>
+      <a href="https://github.com/BKAELAB/Project_2025Vehicle_System" target="_blank" style="text-decoration: none; color: inherit;">
+        <strong style="font-size: 18px;">🚗 Vehicle System Architecture Project</strong>
+      </a><br>
+      <sub style="color: #555; font-style: italic;">
+        차량 전자 시스템 구조 설계<br>
+        ECU · Sensor · Actuator 통합 제어
+      </sub><br><br>
+      <span style="background-color: #4caf50; color: white; padding: 4px 10px; border-radius: 10px; font-weight: bold;">
+        ✔ System Design
+      </span>
+    </td>
+    <!-- Project 2 -->
+    <td align="center" style="border: 1px solid #ccc; border-radius: 12px; background-color: #f9f9f9; padding: 20px; width: 400px;">
+      <img src="https://img.shields.io/badge/SOME/IP-Gateway-purple?style=for-the-badge&logo=protocols&logoColor=white" /><br><br>
+      <a href="https://github.com/BKAELAB/BKEL_SomeIP_GateWay/tree/mcu?tab=readme-ov-file" target="_blank" style="text-decoration: none; color: inherit;">
+        <strong style="font-size: 18px;">🌐 SOME/IP Gateway (MCU)</strong>
+      </a><br>
+      <sub style="color: #555; font-style: italic;">
+        차량 네트워크 통신 게이트웨이<br>
+        SOME/IP · MCU · Service Routing
+      </sub><br><br>
+      <span style="background-color: #ff9800; color: black; padding: 4px 10px; border-radius: 10px; font-weight: bold;">
+        🚧 Work in Progress
       </span>
     </td>
   </tr>
 </table>
+</div>
 
-</div> -->
 
 
-<h2 align="center">🛰️ Featured Project</h2>
+<!-- <h2 align="center">🛰️ Featured Project</h2>
 
 <div align="center">
 
@@ -97,19 +116,7 @@
   </tr>
 </table>
 
-</div>
-
-<!-- 깃허브 상태-->
-<h2 align="center">📊 GitHub Stats & Streak</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HawSJun&show_icons=true&theme=onedark&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HawSJun&layout=compact&theme=onedark&exclude_repo=iot-algorithm-2025,iot-dataanalysis-2025&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=HawSJun&theme=onedark&hide_border=true"/>
-</p>
+</div> -->
 
 
 ![snake gif](https://github.com/HawSJun/HawSJun/blob/output/github-contribution-grid-snake.svg)
