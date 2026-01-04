@@ -76,7 +76,7 @@
       </span>
     </td>
     <!-- Project 2 -->
-    <td align="center" style="border: 1px solid #ccc; border-radius: 12px; background-color: #f9f9f9; padding: 20px; width: 400px;">
+    <td align="center" style="border: 1px solid #ccc; border-radius: 12px; background-color: #f9f9f9; padding: 40px; width: 400px;">
       <img src="https://img.shields.io/badge/SOME/IP-Gateway-purple?style=for-the-badge&logo=protocols&logoColor=white" /><br><br>
       <a href="https://github.com/BKAELAB/BKEL_SomeIP_GateWay/tree/mcu?tab=readme-ov-file" target="_blank" style="text-decoration: none; color: inherit;">
         <strong style="font-size: 18px;">🌐 SOME/IP Gateway Project (MCU)</strong>
