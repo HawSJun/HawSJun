@@ -99,10 +99,10 @@
           🌐 SOME/IP Gateway (MCU)
         </strong>
       </a><br><br>
-      <div style="min-height: 70px; line-height: 1.6;">
+      <div style="min-height: 72px; line-height: 1.6;">
         차량 네트워크 통신 게이트웨이<br>
         SOME/IP · MCU · Service Routing
-      </div><br>
+      </div>
       <span style="font-weight: 600;">🚧 Work in Progress</span>
     </td>
   </tr>
