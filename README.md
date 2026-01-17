@@ -8,7 +8,7 @@
 
 <p align="right">
   <a href="https://velog.io/@hwasjun1/posts" target="_blank">
-    <img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=velog&logoColor=white" height="60" alt="Velog"/>
+    <img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=velog&logoColor=white" height="80" alt="Velog"/>
   </a>
 </p>
 
