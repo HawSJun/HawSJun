@@ -8,10 +8,9 @@
 
 <p align="right">
   <a href="https://velog.io/@hwasjun1/posts" target="_blank">
-    <img src="https://img.shields.io/badge/VELOG-20c997?style=for-the-badge&logo=velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VELOG-20c997?style=plastic&logo=velog&logoColor=white"/>
   </a>
 </p>
-
 
 <!-- 프로필 -->
 <h2 align="center">👤 Profile</h2>
